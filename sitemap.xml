@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://singular-dodol-11e241.netlify.app/</loc>
+       <lastmod>2026-11-16T16:47:38+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://singular-dodol-11e241.netlify.app/contacts</loc>
+       <lastmod>2026-11-16T16:47:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://singular-dodol-11e241.netlify.app/main_2</loc>
+       <lastmod>2026-11-16T16:47:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://singular-dodol-11e241.netlify.app/recording</loc>
+       <lastmod>2026-11-16T16:47:38+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+</urlset>

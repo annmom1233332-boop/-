@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://singular-dodol-11e241.netlify.app//sitemap.xml
